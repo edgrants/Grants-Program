@@ -21,7 +21,7 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
-- If the name of your project is not descriptive, a tag line (one sentence summary).
+- If the name of your project is not descriptive, a tag line (one sentence summary): Accredited blockchain university courses and blockchain programming in universities.
 - A brief description of your project: Accredited blockchain courses in 4-year universities in the United States. Courses are led by one local TA and one professor. Course content is created by Professor Sriram Vishwanath at UT Austin, who has been running accredited blockchain courses at UT Austin for several years. The project also includes university hosted hackathons and university blockchain clubs to support developers and entrepreneurs and take their knowledge to the next level, allowing them to lead the charge in Web3 development.
 - An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
 - An indication of why your team is interested in creating this project: We aim to support developers and entrepreneurs who contribute to Web3 projects in the fields of social equity, ecological conservation, and positive emergent technology. Our vision is to make blockchain education more widely accessible to university students (and eventually non-university commuities), support them in their success in becominng professionals in the industry, and level the playing field for students interested in building on Polkadot, Kusama and Substrate. 
@@ -30,12 +30,12 @@ Please provide the following:
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
-- An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
+- Mockups/designs of any UI components: (insert sample curriculum, syllbus; link to UT Austin blockchain course page as PoC/sample?)
+- Data models / API specifications of the core functionality (? Could API sample be an online course intro page [link]?)
+- An overview of the technology stack to be used: (For course online comoponents, what software interfaces/programs are used? We can insert here.)
+- Documentation of core components, protocols, architecture, etc. to be deployed: (insert course curriculim, syllabus sample etc.)
 - PoC/MVP or other relevant prior work or research on the topic: Proof of Concept comes from the UT Austin blockchain education program, which has been up and running for approximately 4 years and has produced a number of successful Web3 projects with some teams attaining high valuation already and Series A/B rounds. The lead professor at UT Austin (http://sriram.utlinc.org/#/) is on the advisory board of this project; we intend to replicate the UT Austin program across at least 5-7 universties by fall semester 2022 and 20 universities in the United States by spring semester 2023 with his support in creating course syllabi. This grant covers 5-8 universities for fall 2022. Students from UT Austin blockchain program also offer support to student bodies of other universities. See website for details: https://www.mccombs.utexas.edu/centers-and-initiatives/blockchain/. Hackathon PoC - UT Austin hackathons have been successful and winners have gone on to receive funding from VCs and foundation grants to continue building out MVP and launching.
-- What your project is _not_ or will _not_ provide or implement
+- What your project is _not_ or will _not_ provide or implement: These courses are not certification based; they are purely designed for students to receive university credit. They do not guarantee a 100 percent success rate for all projects started or launched during the course period (semester). This project does not guarantee investment into teams from VCs. This project does not provide any micro-grants, starter grants or grants of any type to students who attend the courrses.
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
 Things that shouldn’t be part of the application (see also our [FAQ](../docs/faq.md)):
