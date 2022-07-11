@@ -23,7 +23,7 @@ Please provide the following:
 
 - If the name of your project is not descriptive, a tag line (one sentence summary): Accredited blockchain university courses and blockchain programming in universities.
 - A brief description of your project: Accredited blockchain courses in 4-year universities in the United States. Courses are led by one local TA and one professor. Course content is created by Professor Sriram Vishwanath at UT Austin, who has been running accredited blockchain courses at UT Austin for several years. The project also includes university hosted hackathons and university blockchain clubs to support developers and entrepreneurs and take their knowledge to the next level, allowing them to lead the charge in Web3 development.
-- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
+- An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama. (Sriram)
 - An indication of why your team is interested in creating this project: We aim to support developers and entrepreneurs who contribute to Web3 projects in the fields of social equity, ecological conservation, and positive emergent technology. Our vision is to make blockchain education more widely accessible to university students (and eventually non-university commuities), support them in their success in becominng professionals in the industry, and level the playing field for students interested in building on Polkadot, Kusama and Substrate. 
 
 ### Project Details
@@ -47,8 +47,8 @@ Things that shouldn’t be part of the application (see also our [FAQ](../docs/f
 
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem? Our project addresses the problem that universities face when trying to include blockchain in their accredited course offerings.
-- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? University students, blockchain engineers, 
+- Where and how does your project fit into the ecosystem? Our project addresses the problem that universities face when trying to include blockchain in their accredited course offerings. (Ask Sriram)
+- Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? University students, blockchain engineers, (Sriram)
 - What need(s) does your project meet? 
 - Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
   - If so, how is your project different? 
