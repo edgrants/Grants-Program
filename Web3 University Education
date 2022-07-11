@@ -47,7 +47,7 @@ Things that shouldn’t be part of the application (see also our [FAQ](../docs/f
 
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem? Our project addresses the problem that universities face when trying to include blockchain in their accredited course offerings.
+- Where and how does your project fit into the ecosystem? 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)? University students, blockchain engineers, 
 - What need(s) does your project meet? Our project fills the current lack of widedly accessible, accredited blockchain courses at universities across the United States as well as post-course support for building out Web3 projects.
 - Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
